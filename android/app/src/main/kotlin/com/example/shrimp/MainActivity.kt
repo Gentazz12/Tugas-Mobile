@@ -1,0 +1,5 @@
+package com.example.shrimp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
